@@ -1,3 +1,4 @@
+||pagead^$third-party
 ||doubleclick.net^
 ||googlesyndication.com^
 ||googleadservices.com^
@@ -50,4 +51,4 @@
 */adblock-detector.js
 */blockadblock.js
 */fuckadblock.js
-||pagead^$third-party
+*/pagead*$script,third-party
